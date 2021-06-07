@@ -12,6 +12,7 @@
 
 *://www.enherb.jp/*
 *://ja.dvdfab.cn/*
+*://address-kakunin.com/*
 
 *://monomania.sblo.jp/*
 *://teaholics.co.jp/*
